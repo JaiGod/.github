@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#07070c"/><stop offset=".5" stop-color="#16120a"/><stop offset="1" stop-color="#06131a"/></linearGradient>
+<linearGradient id="gold" x1="0" x2="1"><stop offset="0" stop-color="#fff2b0"/><stop offset=".35" stop-color="#ffc83d"/><stop offset=".7" stop-color="#ff8a1f"/><stop offset="1" stop-color="#fff2b0"/>
+<animate attributeName="x1" values="0;-1;0" dur="5s" repeatCount="indefinite"/><animate attributeName="x2" values="1;2;1" dur="5s" repeatCount="indefinite"/></linearGradient>
+<radialGradient id="halo" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffc83d" stop-opacity=".45"/><stop offset="1" stop-color="#ffc83d" stop-opacity="0"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffc83d" stroke-opacity=".06"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="20" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="20" fill="url(#grid)"><animate attributeName="y" values="0;40" dur="4s" repeatCount="indefinite"/></rect>
+<g fill="#ffe9a8">
+<circle cx="90" cy="60" r="1.6"><animate attributeName="opacity" values="1;.2;1" dur="2.3s" repeatCount="indefinite"/></circle>
+<circle cx="260" cy="270" r="1.3"><animate attributeName="opacity" values=".2;1;.2" dur="3.1s" repeatCount="indefinite"/></circle>
+<circle cx="980" cy="50" r="1.5"><animate attributeName="opacity" values="1;.3;1" dur="2.7s" repeatCount="indefinite"/></circle>
+<circle cx="1130" cy="250" r="1.2"><animate attributeName="opacity" values=".3;1;.3" dur="1.9s" repeatCount="indefinite"/></circle>
+<circle cx="700" cy="290" r="1.4"><animate attributeName="opacity" values="1;.2;1" dur="3.4s" repeatCount="indefinite"/></circle>
+<circle cx="420" cy="40" r="1.1"><animate attributeName="opacity" values=".2;1;.2" dur="2.5s" repeatCount="indefinite"/></circle>
+</g>
+<!-- crown emblem -->
+<g transform="translate(170 160)">
+<circle r="105" fill="url(#halo)"><animate attributeName="r" values="95;115;95" dur="3s" repeatCount="indefinite"/></circle>
+<g filter="url(#glow)">
+<circle r="78" fill="none" stroke="url(#gold)" stroke-width="4"/>
+<circle r="66" fill="none" stroke="#ffc83d" stroke-opacity=".35" stroke-width="2" stroke-dasharray="6 10"><animateTransform attributeName="transform" type="rotate" values="0;360" dur="18s" repeatCount="indefinite"/></circle>
+<path d="M-44 18 L-50 -26 L-24 -4 L0 -40 L24 -4 L50 -26 L44 18 Z" fill="url(#gold)"/>
+<rect x="-44" y="22" width="88" height="12" rx="3" fill="url(#gold)"/>
+<circle cx="-50" cy="-30" r="6" fill="#ffe9a8"/><circle cx="0" cy="-44" r="7" fill="#ffe9a8"><animate attributeName="r" values="6;9;6" dur="1.6s" repeatCount="indefinite"/></circle><circle cx="50" cy="-30" r="6" fill="#ffe9a8"/>
+<text x="0" y="62" text-anchor="middle" font-family="Segoe UI,Verdana,sans-serif" font-weight="900" font-size="22" fill="#ffc83d" letter-spacing="3">JG</text>
+</g>
+<animateTransform attributeName="transform" type="translate" values="170 160;170 152;170 160" dur="4s" repeatCount="indefinite"/>
+</g>
+<text x="320" y="150" font-family="Segoe UI,Verdana,sans-serif" font-weight="900" font-size="92" fill="url(#gold)" filter="url(#glow)" letter-spacing="6">JAIGOD</text>
+<text x="326" y="195" font-family="Segoe UI,Verdana,sans-serif" font-weight="600" font-size="22" fill="#f3e6c4" letter-spacing="5">GAMES · 3D WORLDS · APPS · SIMULATIONS</text>
+<g font-family="Consolas,Menlo,monospace" font-size="20" fill="#5ee7ff">
+<text x="326" y="245">&gt; play everything in your browser<tspan fill="#5ee7ff"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>_</tspan></text>
+</g>
+<g font-family="Segoe UI,Verdana,sans-serif" font-size="15" font-weight="700">
+<rect x="326" y="268" width="88" height="28" rx="14" fill="#ffc83d" fill-opacity=".14" stroke="#ffc83d" stroke-opacity=".5"/><text x="370" y="287" text-anchor="middle" fill="#ffd76a">UNITY</text>
+<rect x="424" y="268" width="88" height="28" rx="14" fill="#ffc83d" fill-opacity=".14" stroke="#ffc83d" stroke-opacity=".5"/><text x="468" y="287" text-anchor="middle" fill="#ffd76a">GODOT</text>
+<rect x="522" y="268" width="96" height="28" rx="14" fill="#ffc83d" fill-opacity=".14" stroke="#ffc83d" stroke-opacity=".5"/><text x="570" y="287" text-anchor="middle" fill="#ffd76a">UNREAL</text>
+<rect x="628" y="268" width="100" height="28" rx="14" fill="#ffc83d" fill-opacity=".14" stroke="#ffc83d" stroke-opacity=".5"/><text x="678" y="287" text-anchor="middle" fill="#ffd76a">BLENDER</text>
+<rect x="738" y="268" width="96" height="28" rx="14" fill="#ffc83d" fill-opacity=".14" stroke="#ffc83d" stroke-opacity=".5"/><text x="786" y="287" text-anchor="middle" fill="#ffd76a">ROBLOX</text>
+<rect x="844" y="268" width="80" height="28" rx="14" fill="#ffc83d" fill-opacity=".14" stroke="#ffc83d" stroke-opacity=".5"/><text x="884" y="287" text-anchor="middle" fill="#ffd76a">WEB</text>
+</g>
+<!-- orbiting planet -->
+<g transform="translate(1060 120)">
+<circle r="44" fill="#1d3b52"/><circle r="44" fill="none" stroke="#5ee7ff" stroke-opacity=".6" stroke-width="2"/>
+<ellipse rx="70" ry="14" fill="none" stroke="#ffc83d" stroke-width="3" transform="rotate(-18)"/>
+<circle r="7" fill="#ffe9a8"><animateMotion dur="6s" repeatCount="indefinite" path="M70 0 A70 14 0 1 1 -70 0 A70 14 0 1 1 70 0" rotate="0"/></circle>
+</g>
+<path d="M-60 40 L50 0" stroke="#ffe9a8" stroke-width="2" stroke-linecap="round" opacity="0"><animateTransform attributeName="transform" type="translate" values="0 0;1000 330" dur="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;.9;0" dur="6s" repeatCount="indefinite"/></path>
+</svg>
