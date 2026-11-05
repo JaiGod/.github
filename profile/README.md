@@ -23,6 +23,7 @@
 | 🏎️ | **[HYPERCAR-X Drive](https://github.com/JaiGod/hypercar-x-drive-unity)** | Unity racing: AI racers, ghost laps, split-screen | [🎮 Play](https://jaigod.github.io/hypercar-x-drive-unity/) |
 | 🛸 | **[Nova Vanguard](https://github.com/JaiGod/nova-vanguard)** | Unity arcade space shooter | [🎮 Play](https://jaigod.github.io/nova-vanguard/) |
 | 🌸 | **[Bloomfolk Gardens](https://github.com/JaiGod/bloomfolk-gardens)** | Godot 4 pixel-art gardening & collection game | [🎮 Play](https://jaigod.github.io/bloomfolk-gardens/) |
+| 🛋️ | **[Living Room VR](https://github.com/JaiGod/living-room-vr)** | Chores game in 120 photoreal Blender living rooms (Quest-ready) | [🎮 Play](https://jaigod.github.io/living-room-vr/) |
 | 🚩 | **[RedFlag](https://github.com/JaiGod/RedFlag)** | Swipe game that teaches you to spot scams | [🎮 Play](https://jaigod.github.io/RedFlag/) |
 | 💥 | **[Physics Sandbox](https://github.com/JaiGod/Physics-Sandbox)** | Drop it, smash it, blow it up | [🎮 Play](https://jaigod.github.io/Physics-Sandbox/) |
 | 🧠 | **[Mind-Game Simulator](https://github.com/JaiGod/Mind-Game-Simulator)** | 6 brain-training puzzles + daily challenges | [🎮 Play](https://jaigod.github.io/Mind-Game-Simulator/) |
