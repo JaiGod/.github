@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Projects-40%2B-ffc83d?style=for-the-badge" alt="40+ projects">
+  <img src="https://img.shields.io/badge/Projects-60%2B-ffc83d?style=for-the-badge" alt="60+ projects">
   <img src="https://img.shields.io/badge/Playable%20in%20browser-yes-5ee7ff?style=for-the-badge" alt="playable in browser">
   <a href="https://github.com/SuperCoolJai"><img src="https://img.shields.io/badge/Founder-SuperCoolJai-ff8a1f?style=for-the-badge&logo=github&logoColor=white" alt="founder"></a>
   <a href="https://www.patreon.com/c/JaineilRana"><img src="https://img.shields.io/badge/Patreon-Support-ff7ad9?style=for-the-badge&logo=patreon&logoColor=white" alt="Patreon"></a>
@@ -14,6 +14,26 @@
 </p>
 
 <img src="assets/divider.svg" width="100%">
+
+## 🆕 New games (Nov 2026)
+
+| | Game | Engine | What it is | Open it |
+|:-:|---|---|---|---|
+| 💜 | **[The Hollow Between](https://github.com/JaiGod/the-hollow-between)** | Godot 4 | Undertale-inspired story RPG: bullet-hell battles, 6 endings | [🎮 Play](https://jaigod.github.io/the-hollow-between/) |
+| ⚔️ | **[Starfall Chronicle](https://github.com/JaiGod/starfall-chronicle)** | Web + APK | Action RPG: 35 weapons, forge to +10, 3 bosses | [🎮 Play](https://jaigod.github.io/starfall-chronicle/) |
+| 🗡️ | **[Runebound Saga](https://github.com/JaiGod/runebound-saga)** | Godot 4 | Turn-based party RPG: 6 classes, blacksmith & runes | [🎮 Play](https://jaigod.github.io/runebound-saga/) |
+| 🐾 | **[Pocket Wilds](https://github.com/JaiGod/pocket-wilds)** | Godot 4 | Creature-bonding RPG: 24 original creatures, Wardens & a Champion | [🎮 Play](https://jaigod.github.io/pocket-wilds/) |
+| 🔥 | **[Ember Crypt](https://github.com/JaiGod/ember-crypt)** | Godot 4 + APK | Torch-lit dungeon roguelike with bosses | [🎮 Play](https://jaigod.github.io/ember-crypt/) |
+| ⚡ | **[Voltline](https://github.com/JaiGod/voltline)** | Godot 4 | Robot metroidvania: dash, wall-climb, grapple | [🎮 Play](https://jaigod.github.io/voltline/) |
+| 🏝️ | **[Isle of Embers](https://github.com/JaiGod/isle-of-embers)** | Godot 4 | Survival crafting on a volcanic island | [🎮 Play](https://jaigod.github.io/isle-of-embers/) |
+| 🌙 | **[Moonfarm](https://github.com/JaiGod/moonfarm)** | Godot 4 | Lunar-base farming sim (NASA HUNCH inspired) | [🎮 Play](https://jaigod.github.io/moonfarm/) |
+| 🌾 | **[Harvest Hollow](https://github.com/JaiGod/harvest-hollow)** | Web + APK | Cozy farm-life sim: crops, seasons, fishing | [🎮 Play](https://jaigod.github.io/harvest-hollow/) |
+| 🏰 | **[Bulwark TDS](https://github.com/JaiGod/bulwark-tds)** | Web + APK | Unit-placement tower defense: 14 units, 40 waves | [🎮 Play](https://jaigod.github.io/bulwark-tds/) |
+| 🔌 | **[Circuit Siege](https://github.com/JaiGod/circuit-siege)** | Godot 4 | Maze-building tower defense: 10 towers, 30 waves | [🎮 Play](https://jaigod.github.io/circuit-siege/) |
+| 🚀 | **[Orbit Sling](https://github.com/JaiGod/orbit-sling)** | Web + APK | Gravity-slingshot space puzzles | [🎮 Play](https://jaigod.github.io/orbit-sling/) |
+| 🏎️ | **[Neon Drift 3D](https://github.com/JaiGod/neon-drift-3d)** | Web + APK | Endless synthwave 3D racer (raw WebGL) | [🎮 Play](https://jaigod.github.io/neon-drift-3d/) |
+
+<sub>More on the way: Cloud Climb 3D, Turbo Tots Kart, Stellar Barrage, Arcane Deck, Deadline District, Pulse Runner, Iron Oath Tactics.</sub>
 
 ## 🎮 Play in your browser
 
