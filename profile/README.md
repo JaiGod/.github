@@ -15,7 +15,7 @@
 
 <img src="assets/divider.svg" width="100%">
 
-## 🆕 20 new games (Nov 2026)
+## 🆕 23 new games (Nov 2026)
 
 | | Game | Engine | What it is | Open it |
 |:-:|---|---|---|---|
@@ -30,6 +30,9 @@
 | 🌾 | **[Harvest Hollow](https://github.com/JaiGod/harvest-hollow)** | Web + APK | Cozy farm-life sim: crops, seasons, fishing | [🎮 Play](https://jaigod.github.io/harvest-hollow/) |
 | 🏰 | **[Bulwark TDS](https://github.com/JaiGod/bulwark-tds)** | Web + APK | Unit-placement tower defense: 14 units, 40 waves | [🎮 Play](https://jaigod.github.io/bulwark-tds/) |
 | 🔌 | **[Circuit Siege](https://github.com/JaiGod/circuit-siege)** | Godot 4 | Maze-building tower defense: 10 towers, 30 waves | [🎮 Play](https://jaigod.github.io/circuit-siege/) |
+| ⚒️ | **[Blade & Bellows](https://github.com/JaiGod/blade-and-bellows)** | Godot 4 | Blacksmith-shop RPG: forge, haggle, outfit adventurers | [🎮 Play](https://jaigod.github.io/blade-and-bellows/) |
+| 🏰 | **[Citadel 3D](https://github.com/JaiGod/citadel-3d)** | Godot 4 3D | 3D tower defense: 10 towers, 3-phase boss | [🎮 Play](https://jaigod.github.io/citadel-3d/) |
+| 🌱 | **[Sprout Tamers](https://github.com/JaiGod/sprout-tamers)** | Godot 4 | Farming + taming 16 plant-spirit sprouts | [🎮 Play](https://jaigod.github.io/sprout-tamers/) |
 | 🛡️ | **[Iron Oath Tactics](https://github.com/JaiGod/iron-oath-tactics)** | Godot 4 | Isometric tactics RPG: 8 classes, promotions, 10-mission campaign | [🎮 Play](https://jaigod.github.io/iron-oath-tactics/) |
 | 🃏 | **[Arcane Deck](https://github.com/JaiGod/arcane-deck)** | Godot 4 | Deck-building card roguelike: 3 heroes, relics, 3 acts | [🎮 Play](https://jaigod.github.io/arcane-deck/) |
 | 🧟 | **[Deadline District](https://github.com/JaiGod/deadline-district)** | Godot 4 | Zombie wave shooter: 10 weapons, turrets, boss waves | [🎮 Play](https://jaigod.github.io/deadline-district/) |
