@@ -15,7 +15,7 @@
 
 <img src="assets/divider.svg" width="100%">
 
-## 🆕 New games (Nov 2026)
+## 🆕 20 new games (Nov 2026)
 
 | | Game | Engine | What it is | Open it |
 |:-:|---|---|---|---|
@@ -30,10 +30,16 @@
 | 🌾 | **[Harvest Hollow](https://github.com/JaiGod/harvest-hollow)** | Web + APK | Cozy farm-life sim: crops, seasons, fishing | [🎮 Play](https://jaigod.github.io/harvest-hollow/) |
 | 🏰 | **[Bulwark TDS](https://github.com/JaiGod/bulwark-tds)** | Web + APK | Unit-placement tower defense: 14 units, 40 waves | [🎮 Play](https://jaigod.github.io/bulwark-tds/) |
 | 🔌 | **[Circuit Siege](https://github.com/JaiGod/circuit-siege)** | Godot 4 | Maze-building tower defense: 10 towers, 30 waves | [🎮 Play](https://jaigod.github.io/circuit-siege/) |
+| 🛡️ | **[Iron Oath Tactics](https://github.com/JaiGod/iron-oath-tactics)** | Godot 4 | Isometric tactics RPG: 8 classes, promotions, 10-mission campaign | [🎮 Play](https://jaigod.github.io/iron-oath-tactics/) |
+| 🃏 | **[Arcane Deck](https://github.com/JaiGod/arcane-deck)** | Godot 4 | Deck-building card roguelike: 3 heroes, relics, 3 acts | [🎮 Play](https://jaigod.github.io/arcane-deck/) |
+| 🧟 | **[Deadline District](https://github.com/JaiGod/deadline-district)** | Godot 4 | Zombie wave shooter: 10 weapons, turrets, boss waves | [🎮 Play](https://jaigod.github.io/deadline-district/) |
+| ☁️ | **[Cloud Climb 3D](https://github.com/JaiGod/cloud-climb-3d)** | Godot 4 3D | 3D obby across 8 sky islands, hats & best times | [🎮 Play](https://jaigod.github.io/cloud-climb-3d/) |
+| 🏁 | **[Turbo Tots Kart](https://github.com/JaiGod/turbo-tots-kart)** | Godot 4 3D | 3D kart racer: drift boosts, power-ups, Grand Prix | [🎮 Play](https://jaigod.github.io/turbo-tots-kart/) |
+| 🌠 | **[Stellar Barrage](https://github.com/JaiGod/stellar-barrage)** | Godot 4 | Bullet-hell shooter: 5 stages, 20 boss phases | [🎮 Play](https://jaigod.github.io/stellar-barrage/) |
+| 🎵 | **[Pulse Runner](https://github.com/JaiGod/pulse-runner)** | Godot 4 | Rhythm game with 8 original synthesized songs | [🎮 Play](https://jaigod.github.io/pulse-runner/) |
 | 🚀 | **[Orbit Sling](https://github.com/JaiGod/orbit-sling)** | Web + APK | Gravity-slingshot space puzzles | [🎮 Play](https://jaigod.github.io/orbit-sling/) |
 | 🏎️ | **[Neon Drift 3D](https://github.com/JaiGod/neon-drift-3d)** | Web + APK | Endless synthwave 3D racer (raw WebGL) | [🎮 Play](https://jaigod.github.io/neon-drift-3d/) |
 
-<sub>More on the way: Cloud Climb 3D, Turbo Tots Kart, Stellar Barrage, Arcane Deck, Deadline District, Pulse Runner, Iron Oath Tactics.</sub>
 
 ## 🎮 Play in your browser
 
